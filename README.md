@@ -1,6 +1,6 @@
 # Fake-News-Classification
 
-Refer for dataset
+Refer https://drive.google.com/drive/u/3/folders/1gG7lSeNPcVlFMIq74MDb6hFYkB2tjL_Y for dataset
 
 > Environment: Jupyter Notebook
 
